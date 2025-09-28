@@ -1,8 +1,9 @@
 <h1 align="center">Hey 👋, I'm Luis Bermudez</h1>
 
 ###
+<img width="1680" height="460" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/2a25994d-3761-449c-98e1-b719750aa409" />
 
-<p align="center">I'm a Full Stack Developer</p>
+<!-- <p align="center">I'm a Full Stack Developer</p> -->
 
 ###
 
@@ -10,7 +11,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since Inicie en 2012 en este mundo de la informática<br>📚 I'm currently learning Todo lo que pueda<br>🎯 Goals: Crear aplicaciones de alto valor que resuelvan problemas reales.<br>🎲 Fun fact: Me gusta hacer deportes y colaborar en la resolucion de problemas siempre usando alguna herramienta tecnológica<br><br><h3 align="left">Connect with me:</h3><br><p align="left"><br><a href="https://linkedin.com/in/luis-bermudez-sosa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis-bermudez-sosa" height="30" width="40" /></a><br></p></p>
+<p align="left">📚 I'm currently learning Todo lo que pueda<br>🎯 Goals: Crear aplicaciones de alto valor que resuelvan problemas reales.<br>🎲 Fun fact: Me gusta hacer deportes y colaborar en la resolucion de problemas siempre usando alguna herramienta tecnológica<br><br><h3 align="left">Connect with me:</h3><br><p align="left"><br><a href="https://linkedin.com/in/luis-bermudez-sosa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis-bermudez-sosa" height="30" width="40" /></a><br></p></p>
 
 ###
 
