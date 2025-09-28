@@ -4,6 +4,8 @@
 <img width="1680" height="460" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/2a25994d-3761-449c-98e1-b719750aa409" />
 
 <!-- <p align="center">I'm a Full Stack Developer</p> -->
+![Profile views](https://komarev.com/ghpvc/?username=luisbs2412&label=Profile%20views&color=0e75b6&style=flat)
+
 
 ###
 
