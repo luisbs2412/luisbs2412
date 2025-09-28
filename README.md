@@ -69,4 +69,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
 </div>
 
+**<h3 align="left">GitHub Stats</h3>**
+
+<p align="left">
+  <img width="100%" src="https://streak-stats.demolab.com/?user=luisbs2412&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
+</p>
+
 ###
